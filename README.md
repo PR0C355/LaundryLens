@@ -6,6 +6,8 @@ The model is built upon the existing YOLOv11 detection model, trained with [this
 
 Using it is as simple as taking a new photo or selecting an existing one. The app will then create a popup with the meaning of the identified labels. This popup can be dismissed to return to the main page, where the user can see the bounding boxes for each of these items, and either run the model again, or select a new image.
 
+With just a snapshot, users can quickly access detailed washing instructions, making laundry a breeze. Perfect for busy individuals seeking an effortless laundry experience.
+
 ## To build the app on your iOS devices
 * Download this repository
 * Open LaundryLens.xcodeproj with Xcode by double clicking on it
