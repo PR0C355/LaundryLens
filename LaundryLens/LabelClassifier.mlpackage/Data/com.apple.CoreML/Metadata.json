@@ -1,0 +1,17 @@
+{
+  "MLModelVersionStringKey" : "8.3.22",
+  "MLModelDescriptionKey" : "Ultralytics YOLO11n model trained on \/mnt\/mir\/oguntola\/YOLO\/washingLableRecognition.v4i.yolov11\/data.yaml",
+  "MLModelCreatorDefinedKey" : {
+    "IoU threshold" : "0.45",
+    "Confidence threshold" : "0.25",
+    "stride" : "32",
+    "docs" : "https:\/\/docs.ultralytics.com",
+    "task" : "detect",
+    "imgsz" : "[640, 640]",
+    "date" : "2024-10-26T00:02:51.329761",
+    "batch" : "1",
+    "names" : "{0: '30C', 1: '40C', 2: '50C', 3: '60C', 4: '70C', 5: '95C', 6: 'DN_bleach', 7: 'DN_dry', 8: 'DN_dry_clean', 9: 'DN_iron', 10: 'DN_steam', 11: 'DN_tumble_dry', 12: 'DN_wash', 13: 'DN_wet_clean', 14: 'DN_wring', 15: 'bleach', 16: 'chlorine_bleach', 17: 'drip_dry', 18: 'drip_dry_in_shade', 19: 'dry_clean', 20: 'dry_clean_any_solvent', 21: 'dry_clean_any_solvent_except_trichloroethylene', 22: 'dry_clean_low_heat', 23: 'dry_clean_no_steam', 24: 'dry_clean_petrol_only', 25: 'dry_clean_reduced_moisture', 26: 'dry_clean_short_cycle', 27: 'dry_flat', 28: 'hand_wash', 29: 'iron', 30: 'iron_high', 31: 'iron_low', 32: 'iron_medium', 33: 'line_dry', 34: 'line_dry_in_shade', 35: 'machine_wash_delicate', 36: 'machine_wash_normal', 37: 'machine_wash_permanent_press', 38: 'natural_dry', 39: 'non_chlorine_bleach', 40: 'shade_dry', 41: 'steam', 42: 'tumble_dry_high', 43: 'tumble_dry_low', 44: 'tumble_dry_medium', 45: 'tumble_dry_no_heat', 46: 'tumble_dry_normal', 47: 'wet_clean', 48: 'wring'}"
+  },
+  "MLModelAuthorKey" : "Ultralytics",
+  "MLModelLicenseKey" : "AGPL-3.0 License (https:\/\/ultralytics.com\/license)"
+}
